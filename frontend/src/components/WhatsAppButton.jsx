@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import { MessageCircle } from 'lucide-react'
 
 export default function WhatsAppButton() {
-  const phone = '919876543210'
+  const phone = '9527960838'
   const message = encodeURIComponent('Hi! I would like to book at ResortBook.')
 
   return (
